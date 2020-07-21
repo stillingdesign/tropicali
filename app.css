@@ -70,7 +70,7 @@ input, textarea, select {
 }
 body {
   min-height: 100vh;
-  background-color: orange;
+  background-color: #ca774a;
   color: #fff;
   font-family: "Jost";
   font-size: 24px;
